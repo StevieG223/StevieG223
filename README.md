@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StevieG223
 - 👀 I’m interested in data science, linguistics
-- 🌱 I’m currently learning Italian 
+- 🌱 I’m currently learning HTML, CSS, python
 - 📫 How to reach me: stevenjgerencser@gmail.com
